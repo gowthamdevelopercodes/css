@@ -1,0 +1,12 @@
+div {
+    height: 400px;
+    background: linear-gradient(to right, purple, aliceblue);
+    background: linear-gradient(to left, purple, aliceblue);
+    background: linear-gradient(to top, purple, aliceblue);
+    background: linear-gradient(to left, purple, aliceblue, rgba(255, 39, 223, 0.467));
+}
+
+.circle {
+    height: 800px;
+    background: radial-gradient(#fff, #6DD5FA);
+}

@@ -1,0 +1,31 @@
+body {
+    /* background: url("https://cdn.pixabay.com/photo/2022/10/24/14/21/puppy-7543571_960_720.jpg") no-repeat center fixed; */
+    /*  background: url("https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851_960_720.jpg") no-repeat center fixed; */
+    background: url("https://cdn.pixabay.com/photo/2018/03/31/06/31/dog-3277416_960_720.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    border: 1px solid #fff;
+    margin: 0;
+    width: 300px;
+    /* margin-left: 200px;
+    margin-top: 500px; */
+    /* margin: 0 auto; */
+    /* margin: 0 50px; */
+    /* margin: 320px auto; */
+    padding: 20px;
+    /* margin: 100px auto; */
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+h2 {
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+}

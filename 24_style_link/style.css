@@ -1,0 +1,21 @@
+a {
+    font-size: 35px;
+}
+
+/*? link   active   hover  visited  */
+
+a:link {
+    color: rgb(16, 184, 128);
+}
+
+a:hover {
+    color: rgb(224, 18, 187);
+}
+
+a:active {
+    color: rgb(236, 126, 23);
+}
+
+a:visited {
+    color: rgb(66, 108, 235);
+}

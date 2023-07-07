@@ -1,0 +1,37 @@
+a {
+    font-size: 25px;
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+}
+
+a:active {
+    background-color: blue;
+}
+
+h1 {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.red:hover {
+    color: pink;
+}
+
+.gowtham {
+    background-color: purple;
+}
+
+#redid {
+    color: cadetblue;
+}
