@@ -1,0 +1,36 @@
+body {
+    background: url('./img/cake.jpg') center fixed no-repeat;
+    background-size: cover;
+    font-family: "Quicksand", sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 18% 18%;
+    background-color: aliceblue;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+
+i {
+    padding: 8px;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    padding: 50px;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: rgb(156, 176, 179);
+    color: #070606;
+    font-size: 15px;
+}
